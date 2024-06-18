@@ -12,4 +12,3 @@ jobs:
           client_id: "z2pl9asnr"
           api_key: "ZjhmYWE1NDgtYTdmYi00N2FlLWEzYjItY2EzMzQ4ZTYwYTU1"
           project_name: "test2"
-          sast_path: ""
